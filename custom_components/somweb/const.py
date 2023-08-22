@@ -1,6 +1,6 @@
 """Constants for the SOMweb (for Sommer garage doors) integration."""
 
-DOMAIN = ""
+DOMAIN = "161"
 
 SCAN_INTERVAL_SECONDS = 30
 
